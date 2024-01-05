@@ -21,7 +21,7 @@ Al ejecutar el programa, se presentará una lista de opciones para seleccionar l
 Sigue estos pasos para ejecutar el juego:
 
 1. Clona el repositorio: `git clone https://github.com/anuarMoreno/TicTacPython.git`
-2. Ingresa al directorio del juego: `cd tu-repositorio`
+2. Ingresa al directorio del juego: `cd TicTacPython`
 3. Ejecuta el juego: `python main_game.py`
 
 ¡Diviértete jugando al Tic Tac Toe!
